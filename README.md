@@ -1,4 +1,4 @@
-# Autonomous-parking-using-RL-grid-world-
+# Autonomous-parking-using-RL( Grid World Concept)
 
 This Python script simulates an autonomous vehicle parking in a grid-like parking lot using Q-learning, a reinforcement learning algorithm. The environment is visualized using pygame, enabling users to observe the agent as it navigates obstacles, seeks parking spots, and learns from trial and error to improve its parking efficiency over time.
 
